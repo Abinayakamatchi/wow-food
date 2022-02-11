@@ -1,5 +1,5 @@
-This a fully functional website developemnt project,this is done using html,css,javascript,php and mysql.
-This is an food ordering website ,with admin login page seperatly with authentication.
+This a fully functional food ordering website,this is done using html,css,javascript,php and mysql.
+  
 
 
 WEBSITE OVERVIEW
@@ -10,14 +10,16 @@ In the search bar we can search our food item or any category and that would be 
 This explore food category will change every week by the admin.
 ![WhatsApp Image 2022-02-11 at 8 33 40 PM](https://user-images.githubusercontent.com/92636477/153618665-22145e93-131b-4598-8909-428b5fec1bcd.jpeg)
 This is the bestselling food of the week managed by the admin 
+
 CATEGORY PAGE 
 Over here all the 9 categories will be available, and the search bar will display the foos on search.
+
 FOODS PAGE 
 Irrespective of the category all the foods will be displayed.
+![WhatsApp Image 2022-02-11 at 8 56 26 PM](https://user-images.githubusercontent.com/92636477/153619708-8e86cff9-4313-456e-ac97-b249f23064c2.jpeg)
 ![WhatsApp Image 2022-02-11 at 8 56 20 PM](https://user-images.githubusercontent.com/92636477/153619664-25a861c4-a6c9-40c3-91a3-13122147b529.jpeg)
 ![WhatsApp Image 2022-02-11 at 8 56 26 PM (1)](https://user-images.githubusercontent.com/92636477/153619685-794bbca6-3712-4e36-b4f8-e7c786d8e06d.jpeg)
-![WhatsApp Image 2022-02-11 at 8 56 26 PM](https://user-images.githubusercontent.com/92636477/153619708-8e86cff9-4313-456e-ac97-b249f23064c2.jpeg)
-
+ 
 CONTACT PAGE
 Here the contact page will linked with the mail ,I used formspree for this where we can immediately respond to the queries via mail.
 ![WhatsApp Image 2022-02-11 at 8 34 20 PM](https://user-images.githubusercontent.com/92636477/153620302-93b38638-78ce-4251-ad70-370a116cfb69.jpeg)
