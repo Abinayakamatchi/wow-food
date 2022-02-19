@@ -3,7 +3,7 @@ This a fully functional food ordering website,this is done using html,css,javasc
 
 
 WEBSITE OVERVIEW
-This is the Home page of website
+HOME PAGE
 ![WhatsApp Image 2022-02-11 at 8 33 15 PM](https://user-images.githubusercontent.com/92636477/153618316-d3c8cabb-a2eb-4f07-99ca-05d2d8a26dd7.jpeg)
 In the search bar we can search our food item or any category and that would be displayed,on the home page we would able to see the top categories and top 4 foods of the week.
 ![WhatsApp Image 2022-02-11 at 8 33 58 PM](https://user-images.githubusercontent.com/92636477/153618631-b7ea9f31-a482-4636-9bc5-8b989a4acd54.jpeg)
@@ -12,20 +12,20 @@ This explore food category will change every week by the admin.
 This is the bestselling food of the week managed by the admin 
 
 CATEGORY PAGE 
-Over here all the 9 categories will be available, and the search bar will display the foos on search.
+Over here all the 9 categories will be available, and the search bar will display the food that is on search.
 
 FOODS PAGE 
-Irrespective of the category all the foods will be displayed.
+Irrespective of the category all the foods will be displayed here.
 ![WhatsApp Image 2022-02-11 at 8 56 26 PM](https://user-images.githubusercontent.com/92636477/153619708-8e86cff9-4313-456e-ac97-b249f23064c2.jpeg)
 ![WhatsApp Image 2022-02-11 at 8 56 20 PM](https://user-images.githubusercontent.com/92636477/153619664-25a861c4-a6c9-40c3-91a3-13122147b529.jpeg)
 ![WhatsApp Image 2022-02-11 at 8 56 26 PM (1)](https://user-images.githubusercontent.com/92636477/153619685-794bbca6-3712-4e36-b4f8-e7c786d8e06d.jpeg)
  
 CONTACT PAGE
-Here the contact page will linked with the mail ,I used formspree for this where we can immediately respond to the queries via mail.
+Here the contact page will be linked with the mail ,I used formspree for this as one can immediately respond to the queries via mail.
 ![WhatsApp Image 2022-02-11 at 8 34 20 PM](https://user-images.githubusercontent.com/92636477/153620302-93b38638-78ce-4251-ad70-370a116cfb69.jpeg)
 ![WhatsApp Image 2022-02-11 at 8 34 32 PM](https://user-images.githubusercontent.com/92636477/153620368-9a3eb7c7-f0da-4f62-b272-d4790cac133f.jpeg)
 
-PAYMENT PAGE
+PAYMENT PAGE:STRIPE PAYMENT
 ![WhatsApp Image 2022-02-11 at 8 34 47 PM](https://user-images.githubusercontent.com/92636477/153620627-0603dee5-1e87-4714-a825-49f27534a1d7.jpeg)
 ![WhatsApp Image 2022-02-11 at 8 35 00 PM](https://user-images.githubusercontent.com/92636477/153620645-110764b3-783e-47ad-b6ca-fd0b4f125368.jpeg)
 
@@ -34,7 +34,7 @@ This is for cash on delivery
 ![WhatsApp Image 2022-02-11 at 8 35 17 PM](https://user-images.githubusercontent.com/92636477/153621284-63643b9a-c47b-42a4-b770-177c0b914884.jpeg)
 
 ADMIN PAGE 
-There is seperate admin page where the admin has to login with username and password,without logging in admin cant access the panel.![WhatsApp Image 2022-02-11 at 8 35 40 PM](https://user-images.githubusercontent.com/92636477/153621433-c31eb351-2104-4d42-a639-84302ccf07f5.jpeg) 
+There is seperate admin page, where the admin has to login with username and password,without logging in admin cant access the panel.![WhatsApp Image 2022-02-11 at 8 35 40 PM](https://user-images.githubusercontent.com/92636477/153621433-c31eb351-2104-4d42-a639-84302ccf07f5.jpeg) 
 
 MANAGE ADMIN 
 Over here the admin can change thier username ,password ,add admin or delete admin.
